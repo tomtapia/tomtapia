@@ -1,17 +1,21 @@
 # 💫 About Me:
-Hey there! 👋 I'm a seasoned IT professional with a rich background in cloud solution architecture, software engineering, and leadership roles. Throughout my career, I've worn many hats-from front-end and back-end developer to software architect, solutions architect, technical leader, and even CTO. My passion lies in creating high-performance web applications and cloud-native solutions that drive real business value.<br>
+Hey there! 👋 I'm an IT architect and software craftsman with experience in cloud architecture, software engineering, technical leadership, and AI-driven systems. Over the years, I've worked as a front-end developer, back-end developer, software architect, solutions architect, technical leader, and CTO. I enjoy building scalable systems that solve real business problems with clean architecture and long-term maintainability.<br>
 
-🔭 I'm currently working on designing and implementing multi-cloud architectures using AWS, GCP, and Azure, and focusing on cloud-native and serverless technologies. I love diving deep into microservices, DevOps, FinOps practices, and integrating complex systems across diverse industries.<br>
+🔭 I'm currently designing and building cloud-native and AI-powered solutions across AWS, GCP, and Azure, with a strong focus on distributed systems, serverless platforms, system integrations, and secure enterprise architectures.<br>
 
-👯 I'm looking to collaborate on innovative open-source projects, where my expertise in cloud, web technologies, and system integrations can be of value.<br>
+🤖 My current work includes Generative AI systems, conversational assistants, voice AI, RAG architectures, AI agent orchestration, multi-agent workflows, MCP/tool integrations, and AI-native software delivery workflows.<br>
 
-🌱 I'm currently improving more about multi-cloud strategies and refining my current skills in Golang, Java (Spring Boot), Typescript/Node.js, and frontend frameworks like React, Vue and Angular to stay at the forefront of modern tech solutions.<br>
+🛠️ I'm deeply interested in spec-driven development, contract-first architecture, AI coding workflows, and building reliable engineering systems where specifications, implementation, and validation stay aligned.<br>
 
-💬 Ask me about anything related to cloud architecture, microservices, system integrations, or leading high-performing teams. I'm always up for a tech discussion!<br>
+👯 I'm open to collaborating on meaningful open-source projects related to cloud platforms, AI systems, developer tooling, distributed architectures, or modern software engineering practices.<br>
 
-⚡ Fun fact: When I'm not deep into tech, you'll find me spending time with my family, enjoying some video games, or tinkering with new gadgets and exploring the latest tech trends.<br>
+🌱 I'm continuously improving my skills in AI systems architecture, multi-agent development, Golang, Java (Spring Boot), TypeScript/Node.js, Rust, and modern frontend technologies.<br>
 
-Let's connect if you want to collaborate, need help with cloud solutions, or just want to chat about technology! 😊
+💬 Feel free to ask me about cloud architecture, distributed systems, AI solution design, microservices, system integrations, software craftsmanship, or building high-performing engineering teams.<br>
+
+⚡ Outside of work, I enjoy spending time with my family, playing video games, testing new gadgets, and exploring new technology.<br>
+
+Let's connect if you'd like to build scalable systems, discuss architecture, or collaborate on interesting technology projects. 😊
 
 
 ## 🌐 Socials:
